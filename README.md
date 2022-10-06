@@ -12,7 +12,5 @@ Crea tu propia tarjeta regalo de Bicoin Lightning
 
 Para más información consulta el vídeo:
 
-[![Ver el video:]          // Title
-(https://i.ytimg.com/vi/7BqqoMe-ebc/maxresdefault.jpg)] // Thumbnail
-(https://youtu.be/7BqqoMe-ebc "Ver el video:")    // Video Link
+[![Ver video aquí](https://img.youtube.com/vi/7BqqoMe-ebc/0.jpg)](https://www.youtube.com/watch?v=7BqqoMe-ebc)
 
