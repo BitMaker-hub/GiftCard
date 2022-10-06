@@ -7,7 +7,7 @@
 - APP NFC Tools
 - Impresora 3D
 
-## Descripcion
+## TUTORIAL
 Crea tu propia tarjeta regalo de Bicoin Lightning
 
 Para más información consulta el vídeo:
